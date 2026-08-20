@@ -1,0 +1,1 @@
+Scout icon assets refreshed. If iOS caches the prior icon, remove the old Home Screen shortcut and add it again after the new Vercel deployment completes.
